@@ -1,0 +1,8 @@
+<mvc:View controllerName="Prueba.prueba.controller.Principal"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <Text text="Prueba Fiori"> </Text>
+        <content />
+    </Page>
+</mvc:View>
